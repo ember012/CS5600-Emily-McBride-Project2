@@ -1,6 +1,5 @@
 ;;; -*- Mode: Lisp; Syntax: Common-Lisp; -*-
 ;;; Module: gps.lisp: a version of GPS.
-;;; bugs to vladimir kulyukin in canvas
 ;;; =========================================
 
 (in-package :user)

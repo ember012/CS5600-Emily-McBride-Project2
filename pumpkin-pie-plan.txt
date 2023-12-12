@@ -1,0 +1,62 @@
+pumpkin pie recipe
+---------------------
+3/4 cup granulated sugar
+
+1 teaspoon ground cinnamon
+
+1/2 teaspoon salt
+
+1/2 teaspoon ground ginger
+
+1/4 teaspoon ground cloves
+
+2 large eggs
+
+1 can (15 ounces) LIBBY'S® 100% Pure Pumpkin
+
+1 can (12 fluid ounces) NESTLÉ® CARNATION® Evaporated Milk, (Or substitute with equal amount Lactose-Free or Almond Cooking Milk)
+
+1 unbaked 9-inch (4-cup volume) deep-dish pie shell
+
+Steps
+- Mix sugar, cinnamon, salt, ginger and cloves in small bowl. Beat eggs in large bowl. Stir in pumpkin and sugar-spice mixture. Gradually stir in evaporated milk.
+- Pour into pie shell.
+- Bake in preheated 425° F oven for 15 minutes. Reduce temperature to 350° F; bake for 40 minutes or until knife inserted near center comes out clean. Cool on wire rack for 2 hours. Serve immediately or refrigerate.
+
+
+Start
+-----------
+- pie crust on counter
+- ingredients on counter
+- small bowl on counter
+- large bowl on counter
+- pie tin on counter
+- in center kitchen
+
+
+
+actions                                     Preconditions                                                                                                           Add list                                            del list
+------------                                ----------------                                                                                                        ---------                                           ---------
+- go to oven                                - in center of kitchen                                                                                                  - at oven                                           - in center of kitchen
+- preheat oven to 425 degrees               - at oven                                                                                                               - oven preheated
+- go to counter                             - at oven, oven preheated                                                                                               - at counter                                        - at oven
+- put pie crust in pie tin                  - pie crust on counter, pie tin on counter, at counter                                                                  - pie shell ready
+- add 3/4 cup sugar to small bowl           - small bowl on counter, ingredients on counter, at counter, pie shell ready                                            - sugar in bowl
+- add 1 teaspoon cinnamon to small bowl     - small bowl on counter, ingredients on counter, at counter, sugar in bowl                                              - cinnamon in bowl
+- add 1/2 teaspoon salt to small bowl       - small bowl on counter, ingredients on counter, at counter, cinnamon in bowl                                           - salt in bowl
+- add 1/2 teaspoon ginger to small bowl     - small bowl on counter, ingredients on counter, at counter, salt in bowl                                               - ginger in bowl
+- add 1/2 teaspoon cloves to small bowl     - small bowl on counter, ingredients on counter, at counter, ginger in bowl                                             - cloves in bowl
+- mix ingedients in small bowl              - small bowl on counter, at counter, cloves in bowl                                                                     - small bowl ingredients mixed
+- crack eggs in large bowl                  - large bowl on counter, ingredients on counter, at counter, small bowl ingredients mixed                               - eggs in large bowl
+- beat eggs                                 - large bowl on counter, ingredients on counter, at counter, eggs in large bowl                                         - eggs beaten
+- add can of pumpkin to large bowl          - large bowl on counter, ingredients on counter, at counter, eggs beaten                                                - pumpkin in large bowl
+- add content of small bowl to large bowl   - large bowl on counter, at counter, small bowl on counter, pumpkin in large bowl, small bowl ingredients mixed         - spices in large bowl                              - small bowl ingredients mixed, sugar in bowl, cinnamon in bowl, salt in bowl, ginger in bowl, cloves in bowl
+- mix ingredients in large bowl             - large bowl on counter, at counter, spices in large bowl                                                               - pumpkin and spices mixed
+- stir in evaporated milk in large bowl     - large bowl on counter, at counter, pumpkin and spices mixed                                                           - pie filling ready
+- pour pie filling into pie shell           - large bowl on counter, at counter, pie shell ready, pie filling ready                                                 - pie filling in pie shell                          - spices in large bowl, pumpkin and spices mixed, pie filling ready, eggs in large bowl, eggs beaten, pumpkin in large bowl
+- hold uncooked pie                         - at counter, pie filling in pie shell                                                                                  - holding uncooked pie
+- go to oven with pie                       - at counter, oven preheated, holding uncooked pie                                                                      - at oven with pie                                  - at counter
+- place pie in oven for 15 minutes          - at oven with pie, oven preheated, holding uncooked pie                                                                - pie in oven at 425, 15 minutes past               - holding uncooked pie
+- reduce temperature to 350 degrees         - 15 minutes past, pie in oven at 425, at oven with pie, oven preheated                                                 - pie in oven at 350                                - pie in oven at 425, 15 minutes past
+- wait for 40 minutes                       - pie in oven at 350, at oven with pie, oven preheated                                                                  - 40 minutes past
+- take pie out and let rest                 - 40 minutes past, pie in oven at 350, at oven with pie, oven preheated                                                 - pie is ready                                      - 40 minutes past, pie in oven at 350
